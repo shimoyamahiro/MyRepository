@@ -1,3 +1,0 @@
--- Databricks notebook source
--- MAGIC %python
--- MAGIC SELECT * FROM diamonds
